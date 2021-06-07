@@ -1,0 +1,23 @@
+.about{
+    font-family: sans-serif;
+    width: 100%;
+    float: left;
+    background-image: url(./BG.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.about dt{
+    color: antiquewhite;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 70px;
+}
+.about div{
+    color: antiquewhite;
+    font-size: 25px;
+}
